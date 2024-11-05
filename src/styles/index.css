@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Calistoga&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+  
+  
+body {
+    color: var(--foreground);
+    background: var(--background);
+  }
+  
+*{
+    font-family: Calistoga;
+}
+footer{
+    text-align: left;
+    color: var(--foreground);
+    background-color: #302c2c;
+}
